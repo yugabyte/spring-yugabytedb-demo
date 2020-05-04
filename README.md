@@ -1,7 +1,7 @@
 
 # Getting Started with Spring Boot Application  and Distributed SQL  with YugabyteDB
 
-This app is a Spring Boot implementation backed by YugabyteDB SQL Query Language (YCQL). 
+This app is a Spring Boot implementation backed by YugabyteDB SQL Query Language (YSQL). 
 
 `spring-yugabytedb-demo` app uses the following components:
 
